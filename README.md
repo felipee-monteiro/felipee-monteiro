@@ -17,7 +17,7 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
 - 📍 **Localização:** João Pessoa, Paraíba, Brasil  
 - 💻 **Stack:** NodeJS, ReactJS, React Native 
 - 📚 **Aprendizado Atual:** Golang   
-- 🎓 **Formação:** Formado em Análise e Desenvolvimento de Sistemas  
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas  
 
 ## 😎 Curiosidades sobre Mim
 
