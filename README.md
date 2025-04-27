@@ -19,9 +19,8 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 
 ## 😎 Curiosidades sobre Mim
 
+- 🎥 Apaixonado por cinema, especialmente pelo Tarantino
 - 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos. 
 - 💡 Comecei a programar em 2020 e, desde então, venho me desafiando e aprendendo coisas novas.   
 - 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.   
 - 🌐 Tenho bastante experiência em projetos web, principalmente legados, o que me proporcionou uma visão criativa de como dar uma nova vida à esses sistemas 
-
----
