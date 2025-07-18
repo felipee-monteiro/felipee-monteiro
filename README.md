@@ -6,7 +6,7 @@
 
 Meu nome é **Felipe Monteiro** e, atualmente, moro em **João Pessoa, Paraíba** e meu objetivo é desenvolver produtos fora da caixa. 🚀
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2023 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2023 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica, sendo um deles o projeto de código aberto glpi, no qual sou mantenedor ativo.
 
 ## 📝 Informações Detalhadas
 
