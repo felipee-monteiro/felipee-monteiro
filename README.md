@@ -11,7 +11,7 @@ No meu tempo livre, gosto de participar de comunidades de programação, onde ap
 ## 📝 Informações Detalhadas
 
 - 👤 **Nome:** Felipe Monteiro Antinho 
-- 🎂 **Idade:** 23
+- 🎂 **Idade:** 24
 - 📍 **Localização:** João Pessoa, Paraíba, Brasil  
 - 💻 **Stack:** PHP | Laravel | NodeJS | Express
 - 📚 **Aprendizado Atual:** Golang   
